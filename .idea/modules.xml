@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndTracker.iml" filepath="$PROJECT_DIR$/AndTracker.iml" group="AndTracker" />
+      <module fileurl="file://$PROJECT_DIR$/app/AndTracker-app.iml" filepath="$PROJECT_DIR$/app/AndTracker-app.iml" group="AndTracker/app" />
+      <module fileurl="file://$PROJECT_DIR$/MySahara.iml" filepath="$PROJECT_DIR$/MySahara.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
